@@ -1,0 +1,4 @@
+set	type	recall@1	recall@10	recall@20	ndcg@20	precision@10	mae@10
+test	all-type	0,00192	0,01029	0,01635	0,00706	0,00103	9,98971
+test	rec-type	nan	nan	nan	nan	nan	nan
+test	search-type	0,00192	0,01029	0,01635	0,00706	0,00103	9,98971

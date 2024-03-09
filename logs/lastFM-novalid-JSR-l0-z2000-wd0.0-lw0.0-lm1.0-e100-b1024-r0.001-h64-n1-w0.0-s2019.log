@@ -1,0 +1,3 @@
+Epoch 99: test, all-type -- recall@10 0.06028, recall@20 0.09047, dcg@20 0.03922, ndcg@20 0.03922, precision@20 0.00452, mae@50 0.99718, map@20 0.02503, hit_rate@20 0.09047 -- 2024-03-09 18:38:53.204152
+Epoch 99: test, rec-type -- recall@10 0.15607, recall@20 0.23279, dcg@20 0.10120, ndcg@20 0.10120, precision@20 0.01164, mae@50 0.99283, map@20 0.06474, hit_rate@20 0.23279 -- 2024-03-09 18:38:53.207030
+Epoch 99: test, search-type -- recall@10 0.01259, recall@20 0.01962, dcg@20 0.00836, ndcg@20 0.00836, precision@20 0.00098, mae@50 0.99934, map@20 0.00525, hit_rate@20 0.01962 -- 2024-03-09 18:38:53.208791
